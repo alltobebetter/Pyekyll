@@ -14,7 +14,7 @@
 
 ![博客位置](https://i.gyazo.com/d1a338a1c3bec55acfd6208dd370b16d.png "博客位置")
 
-接下来我们只需要将文章使用markdown形式写入这两个文件夹即可，例如在example1内有一个ex.md，那么当你访问这篇文章时，链接就会是https://your-domain.com/example1/ex，就是这个原理。
+接下来我们只需要将文章使用markdown形式写入这两个文件夹即可，例如在example1内有一个ex.md，那么当你访问这篇文章时，链接就会是https://your-domain.com/example1/ex ，就是这个原理。
 
 ## Python方面
 
