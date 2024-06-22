@@ -5,11 +5,11 @@ def generate_index():
 
     sections = {
         "example1": "示例类别1：",
-        "example2": "示例类别2：",
+        "example2": "示例类别2："#注意最后一行没有逗号
     """这里多加几行就是多几个类别，前面是文件夹名称，后面是显示名称"""
     }
 
-    base_path = "/work/story/"  # 设置文件夹路径
+    base_path = "/work/Pyekyll/"  # 请改到您所在的文件路径
 
     with open("new.md", "w", encoding="utf-8") as new_file:
         for section, title in sections.items():
